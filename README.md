@@ -10,6 +10,7 @@ Complete Project of designing, building, &amp; programming the Intel 8085 Single
 #===================================================================#
 
 #=======================MINIMAL SYSTEM==============================#
+
 - The 8085 microcomputer
 - 32K EPROM
 - 32K R/W RAM
@@ -18,15 +19,17 @@ Complete Project of designing, building, &amp; programming the Intel 8085 Single
 #===================================================================#
 
 #==========================DATASHEETS===============================#
+
 -Intel 8085 microprocessor
 -Intel 8255  Programmable Peripheral Interface
--27256 (several prefixes) EPROM 32kx8 bit 
+-27256 (several prefixes) EPROM 32kx8 bit
 -62256 again will have several prefixes and access times 32k x 8 SRAM
--16550 UART with buffer (again prefixes)
+-16550 UART with buffer
 -74LS04 Hex Inverter
 -74LS32 Quad OR gate
 -74LS138 3 to 8 decoder
 -74LS374 Octal latch
+
 #===================================================================#
 
 
