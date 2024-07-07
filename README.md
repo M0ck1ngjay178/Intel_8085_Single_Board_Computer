@@ -3,10 +3,11 @@ Complete Project of designing, building, &amp; programming the Intel 8085 Single
 # Completed with Dr. Pyzdrowski and the PennWest California SBC Group (Spring Semester 2024) 
 
 #=========================SBC PROJECT SKILLS======================#
-- Read through the data sheets and understand the components.
-- Design/Draw a schematic of the SBC based on the datasheets.
-- Solder components onto a protoboard and wire wrap the data, control, and address lines.
-- Debug wiring & write an assembly operating system 
+- Reading/ Interpreting Electrical Component Datasheets
+- Design/Draw a Schematic, Wiring Diagram, PCB Layout of the SBC based on the datasheets
+- Solder components onto a protoboard and wire wrap the data, control, and address lines
+- Program/Debug wiring/UARTs
+- Program/Debug an assembly operating system for the SBC
 #===================================================================#
 
 #=======================MINIMAL SYSTEM==============================#
